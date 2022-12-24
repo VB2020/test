@@ -35,6 +35,4 @@ public class Main {
             printOutputStream.println(0);
         }
     }
-
-
 }
